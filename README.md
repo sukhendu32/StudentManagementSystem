@@ -1,1 +1,1 @@
-# StudentManagementSystem.jav
+# StudentManagementSystem.java project
